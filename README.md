@@ -1,7 +1,7 @@
 # movie-recommendation-system
 ## Screenshots
 
-![website Screenshot](Screenshot (398).png))
+![website Screenshot](Screenshot (398).png)
 
 
 ## Deployment & Run
