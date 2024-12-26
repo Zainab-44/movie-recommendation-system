@@ -1,8 +1,7 @@
 # movie-recommendation-system
 ## Screenshots
 
-![website Screenshot](Screenshot (398).png)
-
+![website Screenshot](https://github.com/Zainab-44/movie-recommendation-system/blob/main/Screenshot%20(398).png)
 
 ## Deployment & Run
 
