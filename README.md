@@ -1,7 +1,7 @@
 # movie-recommendation-system
 ## Screenshots
 
-![App Screenshot](https://raw.githubusercontent.com/Zainab-44/prodigy_ad_01/main/calculator%20ss.PNG))
+![website Screenshot](Screenshot (398).png))
 
 
 ## Deployment & Run
